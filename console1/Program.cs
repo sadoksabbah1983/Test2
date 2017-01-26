@@ -12,7 +12,8 @@ namespace console1
         {
            Console.WriteLine("hallo1");
             Console.WriteLine("hallo2");
-            Console.WriteLine("hallo2");
+
+            Console.WriteLine("commitLocal");
             Console.ReadKey();
         }
     }
